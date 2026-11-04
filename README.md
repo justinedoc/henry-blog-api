@@ -1,5 +1,4 @@
-# Article API - 
-## NAME: Uche Chukwuma Henry (SIWES 300L Project)
+# Article API - Uche Chukwuma Henry (SIWES 300L Project)
 
 A beginner-friendly, clean RESTful Article API built using **Hono**, **Drizzle ORM**, **SQLite**, and **Zod OpenAPI**.
 
